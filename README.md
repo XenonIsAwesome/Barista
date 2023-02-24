@@ -1,2 +1,4 @@
 # Barista ☕️
-Barista ☕️ is a Minecraft server jar downloader, and soon to be server manager software, built using python.
+Barista ☕️ is a Python-based project designed to simplify the management of Minecraft servers. With Barista, users can easily fetch the appropriate server jar file for their desired Minecraft version and server type (Vanilla, Fabric, Forge, Bukkit, etc.) with just a few clicks. <!-- Barista's intuitive and user-friendly interface makes it easy to manage multiple servers and configurations in one place, streamlining the process of setting up and maintaining a Minecraft server. -->
+
+Barista's future plans include additional server types, such as Forge, Bukkit, Spigot, PaperMC and more, and expanding its functionality to become a comprehensive server management console, with features such as automated backups, plugins and mods management, and server status monitoring. With Barista, Minecraft server owners can focus on playing and enjoying the game, rather than spending hours on server management and setup.
